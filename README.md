@@ -4,7 +4,7 @@ This tool allows users to classify whether a given text contains an adverse even
 
 ## Features
 - Takes a CSV file with text data as input
-- Uses a pre-trained RoBERTa model to classify each text as having an adverse event or not
+- Uses a fine-tuned RoBERTa model to classify each text as having an adverse event or not
 - Outputs the results in a CSV file with the predicted labels
 
 ## Installation
